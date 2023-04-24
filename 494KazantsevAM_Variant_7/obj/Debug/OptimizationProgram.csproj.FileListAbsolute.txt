@@ -1,0 +1,303 @@
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\ModelsOptiomizationBD.db
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\494KazantsevAM_Variant_7.exe.config
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\494KazantsevAM_Variant_7.exe
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\494KazantsevAM_Variant_7.pdb
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\ChartDirector.Net.Desktop.Controls.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\Cyotek.Drawing.BitmapFont.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.SharpDX.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\netchartdir.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\System.Reactive.dll
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\Cyotek.Drawing.BitmapFont.xml
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.xml
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.xml
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.SharpDX.xml
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\netchartdir.xml
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.pdb
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.D3DCompiler.pdb
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\bin\Debug\System.Reactive.xml
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.AssemblyReference.cache
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.AddNewObjectOptimization.resources
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.MainForm.resources
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.Properties.Resources.resources
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.RezultCalculateForm.resources
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.GenerateResource.cache
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.CoreCompileInputs.cache
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.CopyComplete
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\obj\Debug\494KazantsevAM_Variant_7.exe
+C:\Users\Kust\Desktop\Студенту\Методы оптимизации 6 сем\Курсовой проект\Программа\494KazantsevAM_Variant_7\494KazantsevAM_Variant_7\obj\Debug\494KazantsevAM_Variant_7.pdb
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\ModelsOptiomizationBD.db
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\494KazantsevAM_Variant_7.exe.config
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\494KazantsevAM_Variant_7.exe
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\494KazantsevAM_Variant_7.pdb
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\ChartDirector.Net.Desktop.Controls.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\Cyotek.Drawing.BitmapFont.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.SharpDX.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\netchartdir.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct2D1.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D11.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D9.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.DXGI.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Mathematics.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\System.Reactive.dll
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\Cyotek.Drawing.BitmapFont.xml
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.xml
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.xml
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.xml
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.SharpDX.xml
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\netchartdir.xml
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.pdb
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.D3DCompiler.pdb
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct2D1.xml
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D11.xml
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D9.xml
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.DXGI.pdb
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.DXGI.xml
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Mathematics.pdb
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Mathematics.xml
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.xml
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\bin\Debug\System.Reactive.xml
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.AssemblyReference.cache
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.AddNewObjectOptimization.resources
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.MainForm.resources
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.Properties.Resources.resources
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.RezultCalculateForm.resources
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.GenerateResource.cache
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.CoreCompileInputs.cache
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.CopyComplete
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\obj\Debug\494KazantsevAM_Variant_7.exe
+C:\Студенту\#Алгоритмы оптимизации функций 2-х переменных\494KazantsevAM_Variant_7\obj\Debug\494KazantsevAM_Variant_7.pdb
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\ModelsOptiomizationBD.db
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\494KazantsevAM_Variant_7.exe.config
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\494KazantsevAM_Variant_7.exe
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\494KazantsevAM_Variant_7.pdb
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\ChartDirector.Net.Desktop.Controls.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\Cyotek.Drawing.BitmapFont.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.SharpDX.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\netchartdir.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct2D1.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D11.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D9.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.DXGI.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Mathematics.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\System.Reactive.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\Cyotek.Drawing.BitmapFont.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.SharpDX.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\netchartdir.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.pdb
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.D3DCompiler.pdb
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct2D1.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D11.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D9.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.DXGI.pdb
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.DXGI.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Mathematics.pdb
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Mathematics.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\System.Reactive.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.AddNewObjectOptimization.resources
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.AdministrationForm.resources
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.MainForm.resources
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.Properties.Resources.resources
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.RezultCalculateForm.resources
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.GenerateResource.cache
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.CoreCompileInputs.cache
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.CopyComplete
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\obj\Debug\494KazantsevAM_Variant_7.exe
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\obj\Debug\494KazantsevAM_Variant_7.pdb
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.AssemblyReference.cache
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\ClosedXML.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\ExcelNumberFormat.dll
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\ClosedXML.pdb
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\ClosedXML.xml
+C:\Студенту\Основы разработки автоматизированных информационных систем 8 сем\Программа для лабораторных работ\494KazantsevAM_Variant_7\bin\Debug\ExcelNumberFormat.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\ModelsOptiomizationBD.db
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\494KazantsevAM_Variant_7.exe.config
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\494KazantsevAM_Variant_7.exe
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\494KazantsevAM_Variant_7.pdb
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\ChartDirector.Net.Desktop.Controls.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\ClosedXML.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\Cyotek.Drawing.BitmapFont.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\ExcelNumberFormat.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.SharpDX.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\netchartdir.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct2D1.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D11.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D9.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.DXGI.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Mathematics.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\System.Reactive.dll
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\ClosedXML.pdb
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\ClosedXML.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\Cyotek.Drawing.BitmapFont.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\ExcelNumberFormat.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.SharpDX.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\netchartdir.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.pdb
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.D3DCompiler.pdb
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct2D1.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D11.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D9.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.DXGI.pdb
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.DXGI.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Mathematics.pdb
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Mathematics.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\bin\Debug\System.Reactive.xml
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.AssemblyReference.cache
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.AddNewObjectOptimization.resources
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.AdministrationForm.resources
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.MainForm.resources
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.Properties.Resources.resources
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.RezultCalculateForm.resources
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.GenerateResource.cache
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.CoreCompileInputs.cache
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.CopyComplete
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\obj\Debug\494KazantsevAM_Variant_7.exe
+C:\Студенту\Программа оптимизации\OptimizationProgram\494KazantsevAM_Variant_7\obj\Debug\494KazantsevAM_Variant_7.pdb
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\ModelsOptiomizationBD.db
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\494KazantsevAM_Variant_7.exe.config
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\494KazantsevAM_Variant_7.exe
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\494KazantsevAM_Variant_7.pdb
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\ChartDirector.Net.Desktop.Controls.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\ClosedXML.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\Cyotek.Drawing.BitmapFont.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\ExcelNumberFormat.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.SharpDX.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\netchartdir.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct2D1.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D11.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D9.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.DXGI.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Mathematics.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\System.Reactive.dll
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\ClosedXML.pdb
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\ClosedXML.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\Cyotek.Drawing.BitmapFont.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\ExcelNumberFormat.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\HelixToolkit.Wpf.SharpDX.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\netchartdir.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.pdb
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.D3DCompiler.pdb
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct2D1.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D11.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Direct3D9.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.DXGI.pdb
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.DXGI.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Mathematics.pdb
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\SharpDX.Mathematics.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\System.Data.SQLite.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\bin\Debug\System.Reactive.xml
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.AssemblyReference.cache
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.AddNewObjectOptimization.resources
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.AdministrationForm.resources
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.MainForm.resources
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.Properties.Resources.resources
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\obj\Debug\_494KazantsevAM_Variant_7.RezultCalculateForm.resources
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.GenerateResource.cache
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.CoreCompileInputs.cache
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\obj\Debug\OptimizationProgram.csproj.CopyComplete
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\obj\Debug\494KazantsevAM_Variant_7.exe
+C:\Студенту\Программа оптимизации\494KazantsevAM_Variant_7\obj\Debug\494KazantsevAM_Variant_7.pdb
